@@ -1,0 +1,1 @@
+This is Linux server-client version of game of life
